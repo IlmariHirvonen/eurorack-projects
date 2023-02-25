@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-12-13T21:13:55+02:00*%
+%TF.ProjectId,EurorackDualPitchQuantizerFrontPanel,4575726f-7261-4636-9b44-75616c506974,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-12-13 21:13:55*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.150000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X1043000Y-903000D02*
+X61043000Y-903000D01*
+X61043000Y-903000D02*
+X61043000Y-129403000D01*
+X61043000Y-129403000D02*
+X1043000Y-129403000D01*
+X1043000Y-129403000D02*
+X1043000Y-903000D01*
+M02*
